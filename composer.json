@@ -14,7 +14,7 @@
     }],
     "require": {
         "php": "^7.1",
-        "mehrdaad/blueprint": "0.3.2",
+        "mehrdaad/blueprint": "v0.3.2",
         "illuminate/routing": "^5.5 || ^6.0 || ^7.0",
         "illuminate/support": "^5.5 || ^6.0 || ^7.0",
         "league/fractal": "^0.17"
